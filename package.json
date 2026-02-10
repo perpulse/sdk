@@ -1,0 +1,9 @@
+{
+  "name": "perpulse",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "start": "node dist/index.js"
+  }
+}
